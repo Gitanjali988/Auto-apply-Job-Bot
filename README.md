@@ -1,6 +1,6 @@
 # 🤖 Auto Apply Job Bot (Stealth Mode)
 
-I created this project to fully automate job application bot designed to apply to job listings on **Indeed** within minutes of posting — without being blocked by bot detection mechanisms.
+I created this project to fully automate job application bot designed to apply to job listings on **Indeed** within minutes of posting without being blocked by bot detection mechanisms.
 
 ---
 
