@@ -2,7 +2,7 @@ import time
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 
-# Your details
+# My details
 FULL_NAME = "Gitanjali"
 EMAIL = "gxxxx@gmail.com"
 PHONE = "201xxxxx"
