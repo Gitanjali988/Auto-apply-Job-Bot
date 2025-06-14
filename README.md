@@ -58,8 +58,8 @@ JOB_KEYWORDS = ["Data Analyst", "Data Engineer", "Business Analyst", "Power BI D
 
 ## 📬 Optional: Email Report
 
-If enabled, the bot will send you a summary of applications to your Gmail inbox.
-You must generate an [App Password](https://support.google.com/accounts/answer/185833) for this to work.
+If enabled, the bot will send you a summary of applications to your Gmail inbox. For this project, I created a separate email for testing purposes and created an app password.
+You must generate an [App Password](https://support.google.com/accounts/answer/18xxx) for this to work.
 
 ---
 
